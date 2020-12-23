@@ -1,19 +1,19 @@
 ---
-title: Docker Installation
+title: Single Player Game Demo
 permalink: /docs/installation/
 layout: docs
 description: How to install Simpl using Docker
 ---
 
-## Docker Installation
+## Single Player Game Demo
+
+At the end of this tutorial, you will have successfully installed and played a single-player `Calc` game. Simpl Calc will show you the key components you'll need to build a single player game on your own, such as writing the game model service and building the game UI.
+
+### Before You Begin
 
 You will need to have [Docker](https://www.docker.com/) installed.
 
-At the end of this tutorial, you will have successfully installed and played a single-player `Calc` game.
-
 In order to play a game, you will need to install and run `simpl-games-api`, a game model service, and a game UI.
-
-For every game, you will write the game model service, and the game UI. 
 
 For this tutorial, we will use [simpl-calc-model](https://github.com/simplworld/simpl-calc-model) and [simpl-calc-ui](https://github.com/simplworld/simpl-calc-ui)
 
